@@ -1,0 +1,24 @@
+{
+  "name": "campusoutlook-scraper",
+  "version": "1.0.0",
+  "description": "Event Scraper",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffhc/campusoutlook-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffhc/campusoutlook-scraper/issues"
+  },
+  "homepage": "https://github.com/jeffhc/campusoutlook-scraper#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3"
+  }
+}
